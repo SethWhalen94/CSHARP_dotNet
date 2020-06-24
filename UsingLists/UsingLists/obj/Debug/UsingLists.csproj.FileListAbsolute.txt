@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\bin\Debug\UsingLists.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\bin\Debug\UsingLists.exe
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\bin\Debug\UsingLists.pdb
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.exe
+E:\Panda\Desktop\C-SHARP_Projects\UsingLists\UsingLists\obj\Debug\UsingLists.pdb

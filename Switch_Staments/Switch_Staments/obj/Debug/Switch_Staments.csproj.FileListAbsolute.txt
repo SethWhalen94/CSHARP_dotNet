@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\bin\Debug\Switch_Staments.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\bin\Debug\Switch_Staments.exe
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\bin\Debug\Switch_Staments.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.exe
+E:\Panda\Desktop\C-SHARP_Projects\Switch_Staments\Switch_Staments\obj\Debug\Switch_Staments.pdb

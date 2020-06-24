@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\bin\Debug\Random_Class.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\bin\Debug\Random_Class.exe
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\bin\Debug\Random_Class.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.exe
+E:\Panda\Desktop\C-SHARP_Projects\Random_Class\Random_Class\obj\Debug\Random_Class.pdb

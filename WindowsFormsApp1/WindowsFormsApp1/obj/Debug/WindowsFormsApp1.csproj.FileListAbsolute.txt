@@ -1,0 +1,16 @@
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainform.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GroupBox.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Radio_Button1.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_checkbox.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_comboBox.resources
+E:\Panda\Desktop\C-SHARP_Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DateTime.resources

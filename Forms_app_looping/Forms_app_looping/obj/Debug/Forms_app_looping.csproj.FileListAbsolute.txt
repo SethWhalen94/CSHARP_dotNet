@@ -1,0 +1,11 @@
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\bin\Debug\Forms_app_looping.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\bin\Debug\Forms_app_looping.exe
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\bin\Debug\Forms_app_looping.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.exe
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Forms_app_looping\Forms_app_looping\obj\Debug\Forms_app_looping.Form2.resources

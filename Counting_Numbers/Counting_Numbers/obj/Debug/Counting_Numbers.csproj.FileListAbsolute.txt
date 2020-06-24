@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\bin\Debug\Counting_Numbers.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\bin\Debug\Counting_Numbers.exe
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\bin\Debug\Counting_Numbers.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.exe
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Counting_Numbers\Counting_Numbers\obj\Debug\Counting_Numbers.csprojAssemblyReference.cache

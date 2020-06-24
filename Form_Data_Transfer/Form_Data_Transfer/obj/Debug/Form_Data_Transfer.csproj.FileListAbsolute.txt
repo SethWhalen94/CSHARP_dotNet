@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\bin\Debug\Form_Data_Transfer.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\bin\Debug\Form_Data_Transfer.exe
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\bin\Debug\Form_Data_Transfer.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.frmGetData.resources
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.exe
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Form_Data_Transfer\Form_Data_Transfer\obj\Debug\Form_Data_Transfer.frmShowData.resources

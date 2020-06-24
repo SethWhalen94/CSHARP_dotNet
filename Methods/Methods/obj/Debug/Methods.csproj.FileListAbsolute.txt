@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\bin\Debug\Methods.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\bin\Debug\Methods.exe
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\bin\Debug\Methods.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.exe
+E:\Panda\Desktop\C-SHARP_Projects\Methods\Methods\obj\Debug\Methods.pdb

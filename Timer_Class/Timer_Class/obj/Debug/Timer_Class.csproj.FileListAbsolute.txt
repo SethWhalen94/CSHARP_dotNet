@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\bin\Debug\Timer_Class.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\bin\Debug\Timer_Class.exe
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\bin\Debug\Timer_Class.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.exe
+E:\Panda\Desktop\C-SHARP_Projects\Timer_Class\Timer_Class\obj\Debug\Timer_Class.pdb

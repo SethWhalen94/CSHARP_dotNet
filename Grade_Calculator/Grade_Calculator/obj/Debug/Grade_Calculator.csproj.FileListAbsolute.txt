@@ -1,0 +1,10 @@
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.exe.config
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.exe
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.pdb
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.csprojAssemblyReference.cache
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.Form1.resources
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.csproj.GenerateResource.cache
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.csproj.CoreCompileInputs.cache
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.exe
+E:\Panda\Desktop\C-SHARP_Projects\Grade_Calculator\Grade_Calculator\obj\Debug\Grade_Calculator.pdb
